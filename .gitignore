@@ -7,3 +7,5 @@ CMakeFiles/
 /Testing/
 compile_commands.json
 .*.swp
+*.o
+/bin/bash: q: command not found
